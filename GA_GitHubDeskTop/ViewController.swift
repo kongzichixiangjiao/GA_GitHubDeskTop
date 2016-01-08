@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         print("newMaster004")
 
         print("newMaster005")
+        print("newMaster006")
 
     }
 
