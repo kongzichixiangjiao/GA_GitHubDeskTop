@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
         print("newMaster005")
 
+        print("f")
     }
 
     override func didReceiveMemoryWarning() {
