@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("断网了")
         print("newMaster001")
         print("2")
+        print("3")
 
     }
 
