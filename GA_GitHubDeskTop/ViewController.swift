@@ -15,22 +15,6 @@ class ViewController: UIViewController {
         print("修改001")
         print("断网了")
         print("newMaster001")
-        print("newMaster002")
-        print("newMaster003")
-
-        print("newMaster004")
-
-        print("newMaster005")
-        print("newMaster006")
-        print("newMaster006")
-
-        print("f")
-
-         print("f")
-
-        print("newMaster006")
-        
-        print("k")
 
     }
 
