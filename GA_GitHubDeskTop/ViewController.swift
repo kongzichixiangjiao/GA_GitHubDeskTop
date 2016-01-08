@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("修改001")
+        print("断网了")
     }
 
     override func didReceiveMemoryWarning() {
