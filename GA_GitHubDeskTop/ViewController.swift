@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("修改001")
         print("断网了")
+        print("newMaster")
     }
 
     override func didReceiveMemoryWarning() {
